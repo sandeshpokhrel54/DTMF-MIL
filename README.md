@@ -1,7 +1,7 @@
 # DTMf-MIL
 
-Code release for the DTMf-MIL / `spatial_abmil_orig`.
-
+Code release for the DTMf-MIL / `spatial_abmil_orig`.  
+[img](https://github.com/sandeshpokhrel54/DTMF-MIL/blob/main/dtmf-pipeline.png)  
 - `spatial_abmil_orig`, the original DTMf-MIL in code `spatial_abmil_orig` model.
 - Standard MIL baselines: ABMIL, CLAM, DSMIL, DFTD, ILRA, RRT-MIL, TransMIL.
 - SDF/RBF feature extraction utilities.
