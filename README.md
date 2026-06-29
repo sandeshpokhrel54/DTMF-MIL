@@ -3,7 +3,7 @@
 Code release for the DTMf-MIL / `spatial_abmil_orig`.
 
 - `spatial_abmil_orig`, the original DTMf-MIL in code `spatial_abmil_orig` model.
-- Standard MIL baselines: ABMIL, CLAM, DSMIL, DFTD, ILRA, RRT-MIL, TransMIL, Transformer MIL, and WIKG.
+- Standard MIL baselines: ABMIL, CLAM, DSMIL, DFTD, ILRA, RRT-MIL, TransMIL.
 - SDF/RBF feature extraction utilities.
 - A generalized training script that can train `spatial_abmil_orig` and the baselines on any fold configuration (including single splits).
 
